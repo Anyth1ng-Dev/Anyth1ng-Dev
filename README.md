@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anyth1ng and I am a Software Engineering student from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Anyth1ng and I am a Software Engineering from Brazil.</h2>
 
 ###
 
